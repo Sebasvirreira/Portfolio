@@ -23,7 +23,6 @@ const Experience = () => {
             >
               <p className="mb-2 text-sm text-neutral-400">{experience.year}</p>
             </motion.div>
-            {/* hhh */}
             <motion.div
               whileInView={{ opacity: 1, x: 0 }}
               initial={{ opacity: 0, x: 100 }}
