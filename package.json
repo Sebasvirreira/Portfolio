@@ -1,7 +1,7 @@
 {
-  "homepage": "https://sebasvirreira.github.io/Portfolio/",
+  "homepage": "https://sebasvirreira.github.io/portfolio/",
   "name": "portfolio-2.0",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
